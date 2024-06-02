@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="levelone">Запомните за небольшое количество времени число и впишите его в поле.</string>
+    <string name="levelending">"Позравляем, уровень пройден!"</string>
+    <string name="levelcristal">Нажимайте на карточки, чтобы открыть их и найти пары. Постарайтесь найти пары без ошибок.</string>
+</resources>
